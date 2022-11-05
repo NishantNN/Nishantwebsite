@@ -1,0 +1,51 @@
+header
+{
+text-align:center;
+background-image: url(backg.jpeg);
+background-size: cover;
+background-attachment: fixed;
+
+font-family:comic sans ms;
+padding:15px;
+color:white;
+font-size:25px;
+}
+body
+{
+margin:0; 
+background-image:url(bbbb.jpg);
+background-size: cover;
+background-attachment: fixed;
+color:black;
+}
+footer
+{
+background-color: black;
+font-family:Footlight MT Light;
+color:white;
+padding:5px;
+text-align: center;
+}
+h1	
+{
+font-family: comic sans ms;
+}
+h2
+{
+font-family: comic sans ms;	
+}
+a
+{
+text-decoration: none;
+}
+.back:hover
+{
+background-color: purple;
+color: white;
+padding:25px;
+border-radius:25px;
+}
+footer
+{
+padding: 25px;
+}

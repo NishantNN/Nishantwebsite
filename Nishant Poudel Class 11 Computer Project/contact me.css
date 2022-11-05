@@ -1,0 +1,80 @@
+header
+{
+text-align:center;
+background-image: url(backg.jpeg);
+background-size: cover;
+background-attachment: fixed;
+font-family:comic sans ms;
+padding:15px;
+color:white;
+font-size:25px;
+}
+body
+{
+margin:0; 
+background-image:url(bbbb.jpg);
+background-size: cover;
+background-attachment: fixed;
+color:black;
+}
+nav a
+{
+background-color: black;
+border-bottom-left-radius:16px;
+border-top-right-radius:16px;
+color: white;
+padding:20px;
+text-decoration:none;
+font-family:comic sans ms;
+}
+nav a:hover
+{
+background-color:purple;
+color:white;
+border-bottom-left-radius:16px;
+border-top-right-radius:16px;
+}
+a
+{
+text-decoration: none;
+}
+li
+{
+text-decoration: none;
+font-family:#333;
+}
+footer
+{
+background-color: black;
+font-family:Footlight MT Light;
+color:white;
+padding:5px;
+text-align: center;
+}
+footer
+{
+position: bottom;
+padding: 25px;
+}
+
+.click:hover
+{
+background-color: red;
+padding:5px;
+border-radius: 15px;
+color: white;
+}
+.click
+{
+padding:5px;
+border-radius: 15px;
+}
+.hhhh
+{
+color: white;
+background-color: purple;
+}
+h4
+{
+font-family: comic sans ms;
+}

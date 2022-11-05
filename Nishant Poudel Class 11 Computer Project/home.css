@@ -1,0 +1,88 @@
+header
+{
+text-align:center;
+background-image: url(backg.jpeg);
+background-size: cover;
+background-attachment: fixed;
+font-family:comic sans ms;
+padding:15px;
+color:white;
+font-size:25px;}
+body
+{
+margin:0; 
+background-image:url(bbbb.jpg);
+background-size: cover;
+background-attachment: fixed;
+color:black;
+}
+nav a
+{
+background-color: black;
+border-bottom-left-radius:16px;
+border-top-right-radius:16px;
+color: white;
+padding:20px;
+text-decoration:none;
+font-family:comic sans ms;
+}
+nav a:hover
+{
+background-color:purple;
+color:white;
+border-bottom-left-radius:16px;
+border-top-right-radius:16px;
+}
+footer
+{
+background-color: black;
+font-family:Footlight MT Light;
+color:white;
+padding:5px;
+text-align: center;
+}
+h3
+{
+font-family: Footlight MT Light;
+padding: 45px;
+font-size: 25px;
+}
+h1
+{
+font-family: Tw Cen MT;
+font-size:40px;
+}
+footer
+{
+padding: 25px;
+}
+img
+{
+border: 5px solid black;
+border-radius: 15px;
+}
+.know
+{
+text-decoration: none;
+color: black;
+font-family: Footlight MT Light;
+font-size: 25px;
+padding:15px;
+background-color: white;
+border-radius:15px;
+}
+.know:hover
+{
+text-decoration: none;
+color: white;
+font-family: Footlight MT Light;
+font-size: 25px;
+padding:15px;
+background-color: black;
+border-radius:15px;
+}
+.hhhh
+{
+color: white;
+background-color: purple;
+}
